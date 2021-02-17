@@ -21,9 +21,10 @@
 </p>
 
 ---
-### My contributions :
+### My contributions on Medium :
 [1310. XOR Queries of a Subarray](https://vedarya799.medium.com/1310-xor-queries-of-a-subarray-c2996526a641)
-My contribution in Leetcode : [Link](https://www.google.com/search?q=leetcode+vedarya799&oq=a&aqs=chrome..69i57j69i65l3j5l3j69i60.779j0j4&sourceid=chrome&ie=UTF-8)
+<br>
+### My contribution in Leetcode : [Link](https://www.google.com/search?q=leetcode+vedarya799&oq=a&aqs=chrome..69i57j69i65l3j5l3j69i60.779j0j4&sourceid=chrome&ie=UTF-8)
 
 ---
 
