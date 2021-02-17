@@ -2,7 +2,7 @@
 
 <p><a href="https://www.linkedin.com/in/ved-prakash-135712156/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> <a href="https://leetcode.com/Newbie_Leetcoder/"><img src="https://img.shields.io/badge/leetcode-%230077B5.svg?&style=for-the-badge&logo=Leetcode&logoColor=white" height=25></a>  <a href="https://medium.com/@vedarya799"><img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" height=25></a> </p>
 
-:boy:This is Ved Arya pursuing Btech from IIIT Ranchi bought and did schooling from Muzaffarpur . My field of interest are IOT,Robotics,Web Development and have good command over it. 
+:boy:This is Ved Prakash pursuing Btech from IIIT Ranchi bought and did schooling from Muzaffarpur . My field of interest are IOT,Robotics,Web Development and have good command over it. 
 
 📝[Resume](https://drive.google.com/file/d/12pHvdR1ynKNfy-6Nd1P29g99zZ2GhxhH/view?usp=drivesdk)<br>
 
